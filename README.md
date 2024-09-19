@@ -1,22 +1,28 @@
 ### 포트폴리오를 위한 React clone 코딩 입니다.
 
+- 프로젝트 계기 : 취업을 위한 웹 페이지 클론코딩 & 개선
+
 - 작성자 : 전찬혁
 
 - 시작일 : 2024-09-17
 
+- 종료일 : 미정
+
+- FE 배포 : Netlify
+
 ---
 
 - 라이브러리
-| - React.js
-| - axios
-| - react-router-dom
-| - styled-components
-| - react-icons
+  1. React.js
+  2. axios
+  3. react-router-dom
+  4. styled-components
+  5. react-icons
 
 - 사용 예정
-| - redux
-| - node.js
-| - 
+  - redux
+  - node.js
+  - 
 
 ---
 
