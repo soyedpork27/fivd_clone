@@ -1,0 +1,35 @@
+.App {
+  position : relative;
+}
+
+.fixed_box{
+  width : 100%;
+  position : absolute;
+  left : 50%;
+  top : 0;
+  transform : translateX(-50%);
+  background-color : #181818;
+  transition : .2s;
+}
+
+header{
+  /* background-color : #181818; */
+}
+
+.margin-start{
+  height : 0px;
+  overflow : hidden;
+}
+
+main.default_main {
+  padding : 16px;
+  height : calc(100vh - 120px);
+  overflow-y :auto ;
+  margin-top : 120px;
+  transition : .2s;
+}
+
+
+.asdf{
+  height : 2000px;
+}

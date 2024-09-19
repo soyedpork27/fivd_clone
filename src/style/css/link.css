@@ -1,0 +1,11 @@
+.TabList-text{
+  display : block;
+  height : 100%;
+  line-height : 59px;
+  font-size : 1rem;
+}
+
+.TabList-text.on {
+  font-size : 1.125rem;
+  border-bottom : 3px solid #863CFF;
+}
